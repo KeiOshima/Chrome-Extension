@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Data Structure and Algorithim Helper",
+    "description": "Quick access to various resources to help people practice and learn common data structures and algorithim.",
+    "version": "1.0.0",
+    "icons" : {"128" : "logo_128.png"},
+    "action": {
+        "default_icon": "logo_28.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
